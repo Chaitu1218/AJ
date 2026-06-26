@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Roboto+Condensed:wght@300;400;500;600;700&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Lobster", cursive;
+  --font-body: "Roboto Condensed", Arial, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto Condensed", Arial, sans-serif;
+  background: #000;
+  color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lobster", cursive;
+  font-weight: 400;
+}
+
+button,
+input,
+textarea,
+select {
+  font-family: "Roboto Condensed", Arial, sans-serif;
+}
