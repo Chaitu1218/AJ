@@ -1,7 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
 import { CalendarPlus } from "lucide-react";
 import { useState } from "react";
-import logo from "../assets/png ogo.jpg";
+import logo from "../assets/png logo.jpg";
 
 function Header() {
   const location = useLocation();

@@ -25,7 +25,7 @@ import img24 from "../assets/24.jpg";
 import img25 from "../assets/25.jpg";
 import img26 from "../assets/26.JPG";
 import img27 from "../assets/27.JPG";
-import img28 from "../assets/28.JPG";
+import img28 from "../assets/28.jpg";
 import img29 from "../assets/29.JPG";
 import img30 from "../assets/30.JPG";
 import img31 from "../assets/31.JPG";
