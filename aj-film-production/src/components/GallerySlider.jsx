@@ -3,9 +3,9 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
 import img3 from "../assets/3.jpg";
-import img42 from "../assets/42.jpg";
-import img31 from "../assets/31.jpg";
-import img55 from "../assets/55.jpg";
+import img42 from "../assets/42.JPG";
+import img31 from "../assets/31.JPG";
+import img55 from "../assets/55.JPG";
 
 function GallerySlider() {
   const navigate = useNavigate();
