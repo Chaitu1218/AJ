@@ -153,9 +153,7 @@ function Home() {
 
             <p className="text-white/75 leading-8 mb-6">
 
-              Professional Photographer & Cinematic Videographer
-              with years of experience in creating memories that
-              last forever.
+              Professional Photographer & Cinematic Videographer with years of experience capturing life's most precious moments. I specialize in creating timeless photographs and cinematic films that tell authentic stories with emotion and creativity. Every frame is crafted to preserve memories you'll cherish forever. From weddings to portraits and special events, I turn moments into lasting masterpieces.
 
             </p>
 
